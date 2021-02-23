@@ -1,0 +1,12 @@
+C:\Users\Natasas\Desktop\Atlagic Bsc\VPN_Client\bin\Debug\VPN_Client.exe.config
+C:\Users\Natasas\Desktop\Atlagic Bsc\VPN_Client\bin\Debug\VPN_Client.exe
+C:\Users\Natasas\Desktop\Atlagic Bsc\VPN_Client\bin\Debug\VPN_Client.pdb
+C:\Users\Natasas\Desktop\Atlagic Bsc\VPN_Client\obj\Debug\VPN_Client.csprojAssemblyReference.cache
+C:\Users\Natasas\Desktop\Atlagic Bsc\VPN_Client\obj\Debug\VPN_Client.exe
+C:\Users\Natasas\Desktop\Atlagic Bsc\VPN_Client\obj\Debug\VPN_Client.pdb
+C:\Users\Natasas\Desktop\Atlagic 2\VPN_Client\bin\Debug\VPN_Client.exe.config
+C:\Users\Natasas\Desktop\Atlagic 2\VPN_Client\bin\Debug\VPN_Client.exe
+C:\Users\Natasas\Desktop\Atlagic 2\VPN_Client\bin\Debug\VPN_Client.pdb
+C:\Users\Natasas\Desktop\Atlagic 2\VPN_Client\obj\Debug\VPN_Client.csprojAssemblyReference.cache
+C:\Users\Natasas\Desktop\Atlagic 2\VPN_Client\obj\Debug\VPN_Client.exe
+C:\Users\Natasas\Desktop\Atlagic 2\VPN_Client\obj\Debug\VPN_Client.pdb
