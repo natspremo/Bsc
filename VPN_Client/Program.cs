@@ -18,12 +18,11 @@ namespace VPN_Client
                 TcpClient tcpclnt = new TcpClient();
                 Console.WriteLine("Connecting.....");
 
-                tcpclnt.Connect("192.168.0.18", 8001); // use the ipaddress as   in the server program
+                tcpclnt.Connect("192.168.1.31", 8001);  
 
                 Console.WriteLine("Connected");
                 while (true)
                 {
-
                     Console.Write("Send vpn request? : Y/N [x - exit]");
 
                     String str = Console.ReadLine();

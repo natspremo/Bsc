@@ -15,7 +15,7 @@ namespace VPN_Server
         {
             try
             {
-                IPAddress ipAd = IPAddress.Parse("192.168.0.18"); //use local       m/c IP address, and use the same in the client
+                IPAddress ipAd = IPAddress.Parse("192.168.1.31"); //IPv4 local
 
                 /* Initializes the Listener */
                 TcpListener myList = new TcpListener(ipAd, 8001);
@@ -27,6 +27,7 @@ namespace VPN_Server
                 Console.WriteLine("The local End point is  :" + myList.LocalEndpoint);
                 Console.WriteLine("Waiting for a connection.....");
 
+                /* Client connection */
                 Socket s = myList.AcceptSocket();
                 Console.WriteLine("Connection accepted from " + s.RemoteEndPoint);
 
