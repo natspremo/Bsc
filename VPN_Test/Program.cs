@@ -15,7 +15,7 @@ namespace VPN_Server
         {
             try
             {
-                IPAddress ipAd = IPAddress.Parse("192.168.1.31"); //IPv4 local
+                IPAddress ipAd = IPAddress.Parse("172.20.10.14"); //IPv4 local
 
                 /* Initializes the Listener */
                 TcpListener myList = new TcpListener(ipAd, 8001);

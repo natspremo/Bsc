@@ -18,7 +18,7 @@ namespace VPN_Client
                 TcpClient tcpclnt = new TcpClient();
                 Console.WriteLine("Connecting.....");
 
-                tcpclnt.Connect("192.168.1.31", 8001);  
+                tcpclnt.Connect("172.20.10.14", 8001);  
 
                 Console.WriteLine("Connected");
                 while (true)
