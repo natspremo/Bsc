@@ -20,7 +20,7 @@ namespace VPN_Server
                 /* Initializes the Listener */
                 TcpListener myList = new TcpListener(ipAd, 8001);
 
-                /* Start Listeneting at the specified port */
+                /* Start Listening at the specified port */
                 myList.Start();
 
                 Console.WriteLine("The server is running at port 8001...");
